@@ -47,3 +47,22 @@ img {
     margin-right: auto;
     width: 50%;
 }
+.new {
+    margin-bottom: 20px;
+}
+button,
+.button {
+    text-decoration: none;
+    display: inline-block;
+    background-color: yellow;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    list-style: none;
+    box-sizing: border-box;
+    border-radius: 15px;
+    padding: 5px;
+    border: 3px solid black;
+    
+
+}
